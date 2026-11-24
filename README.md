@@ -6,7 +6,7 @@ One job title, 46 characters, nothing else. The contest is a blind judge showdow
 
 > Chief Apology Officer for Autocorrect Mistakes
 
-Picture the actual job. Every morning this person opens a queue of screenshots from people whose phones turned "see you at lunch" into something that ended a friendship. They write the apology notes the keyboard company sends out, they sit in the meeting where engineering explains why "ducking" is never the word anyone meant, and once a quarter they personally call the worst cases, like the guy whose phone corrected his wedding vows draft. It sounds made up, but the moment you read it you can see the desk, the inbox, and the tired person sitting at it. That is the whole entry.
+Picture the actual job. Every morning this person opens a queue of screenshots from people whose phones turned "see you at lunch" into something that ended a friendship. They write the apology notes the keyboard company sends out, they sit in the meeting where engineering explains why "ducking" is never the word anyone meant, and once a quarter they personally phone the worst cases, like the guy whose keyboard corrected his wedding vows draft. It sounds made up, but the moment you read it you can see the desk, the inbox, and the tired person sitting at it. That is the whole entry.
 
 ## Run it
 

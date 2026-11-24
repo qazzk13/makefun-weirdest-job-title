@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 const TITLE = "Chief Apology Officer for Autocorrect Mistakes";
 
-// The kit gate: a single line, 1-60 characters, not all whitespace.
+// The kit gate is strict about shape: one single line, 1-60 characters, not all whitespace.
 if (TITLE.trim().length === 0) {
   throw new Error("entry must not be blank");
 }
